@@ -1,58 +1,72 @@
-# Hi, I'm Daniel Zamyatin
+<h1 align="center">Daniel Zamyatin</h1>
 
-Full-Stack Engineer building modern web apps, AI-powered tools, and automation systems.
+<p align="center"><strong>Full-Stack Engineer building AI products, dashboards, and automation systems.</strong></p>
 
-I focus on practical products: internal dashboards, user-facing applications, workflow automation, and production-ready web systems. My work combines clean frontend development with backend logic, integrations, and deployment.
+<p align="center">Next.js · TypeScript · React · AI integrations · n8n · product-focused frontend</p>
 
-## What I work with
-
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express, FastAPI, REST APIs, webhooks
-- **AI & Automation:** n8n, OpenClaw, LLM integrations, workflow design
-- **DevOps:** Docker, Nginx, GitHub Actions, Linux, DigitalOcean
-- **Product Work:** dashboards, automation-first tools, business-oriented interfaces
+<p align="center">
+  <a href="https://github.com/ViVaLaDaniel">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/zamyatindaniel/">LinkedIn</a> ·
+  <a href="https://github.com/ViVaLaDaniel/DanielZamyatin">Portfolio</a>
+</p>
 
 ## What I build
 
-- AI-powered applications and assistant-style tools
-- Internal dashboards and admin panels
-- Workflow automation systems
-- API integrations and execution flows
-- Fast, responsive web interfaces
-- Deployment pipelines and self-hosted environments
+I work on software that solves a real workflow problem, not just a UI exercise.
 
-## Selected repositories
+- AI-assisted tools that turn messy manual work into clear actions
+- Internal dashboards and operational panels
+- Automation-heavy products with APIs, webhooks, and agent-style flows
+- Fast, business-oriented frontends for SaaS and internal systems
 
-- [AI-Imigration-Helper](https://github.com/ViVaLaDaniel/AI-Imigration-Helper) — AI-assisted product concept for document analysis, guidance, and immigrant-facing workflows
-- [DanielZamyatin](https://github.com/ViVaLaDaniel/DanielZamyatin) — personal portfolio site built with Next.js and TypeScript
-- [axis-ai-dashboard](https://github.com/ViVaLaDaniel/axis-ai-dashboard) — dashboard-oriented AI project and product direction
-- [Akunade](https://github.com/ViVaLaDaniel/Akunade) — branded product-style website foundation
-- [CWCook](https://github.com/ViVaLaDaniel/CWCook) — client-style web project
-- [CWYuliia](https://github.com/ViVaLaDaniel/CWYuliia) — custom web build for a business use case
+## Why teams hire me
 
-## Current focus
+- I can turn a rough product idea into a usable frontend quickly
+- I think in workflows, users, bottlenecks, and business value
+- I work across UI, integrations, automation, and delivery concerns
+- I care about speed, clarity, and maintainable execution
 
-- Building automation-first products
-- Designing AI dashboard systems
-- Creating execution workflows with n8n and OpenClaw
-- Shipping clean, maintainable full-stack projects
+## Flagship work
 
-## Engineering approach
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| [PermitPilot](https://github.com/ViVaLaDaniel/PermitPilot) | AI permit assistant for construction workflows: permit discovery, municipality requirements, document autofill, validation, and status tracking. | Next.js, TypeScript, Firebase, Genkit |
+| [AI-Imigration-Helper](https://github.com/ViVaLaDaniel/AI-Imigration-Helper) | AI document analysis experience for immigrants with uploads, translations, checklists, analytics, and security-oriented UX. | React, Vite, JavaScript, Framer Motion |
+| [Linkedin-Post-Generation](https://github.com/ViVaLaDaniel/Linkedin-Post-Generation) | AI content generator with multiple post styles, daily usage limits, copy-first UX, and a PRO mode concept. | Next.js, TypeScript, Gemini |
+| [telegramminiApp](https://github.com/ViVaLaDaniel/telegramminiApp) | Telegram Mini App prototype for restaurant staff operations: task feeds, stop-lists, prep flows, and role-based workspace configuration. | React, TypeScript, Vite, Telegram SDK |
+| [DanielZamyatin](https://github.com/ViVaLaDaniel/DanielZamyatin) | Personal portfolio system with bilingual content, config-driven structure, and production-ready frontend architecture. | Next.js 15, TypeScript, Tailwind CSS |
 
-I care about building things that are:
+## Product directions in progress
 
-- useful in the real world
-- clean and maintainable
-- fast to ship
-- easy to scale
-- pleasant to use
+- [axis-ai-dashboard](https://github.com/ViVaLaDaniel/axis-ai-dashboard) - early-stage foundation for an AI operations dashboard
 
-## Connect
+## Core stack
 
-- **GitHub:** [@ViVaLaDaniel](https://github.com/ViVaLaDaniel)
-- **LinkedIn:** [Daniel Zamyatin](https://www.linkedin.com/in/daniel-zamyatin)
-- **Location:** Marbella, Spain
+- Frontend: React, Next.js, TypeScript, Tailwind CSS
+- Backend and integrations: Node.js, Express, REST APIs, webhooks, Firebase
+- AI and automation: n8n, Genkit, LLM integrations, workflow design
+- Delivery: Docker, Nginx, GitHub Actions, Linux, DigitalOcean
+
+## What I want to build more of
+
+- AI workflow products with clear ROI
+- Operations dashboards for real teams
+- Automation-first SaaS tools
+- Internal systems that remove manual work and speed up decisions
+
+## Open to
+
+- Full-time product engineering roles
+- Contract work
+- MVP builds for startups
+- AI tooling and automation systems
+
+## Contact
+
+- GitHub: [@ViVaLaDaniel](https://github.com/ViVaLaDaniel)
+- LinkedIn: [Daniel Zamyatin](https://www.linkedin.com/in/zamyatindaniel/)
+- Location: Marbella, Spain
 
 ---
 
-Open to full-time roles, contract work, and product collaborations.
+I optimize for useful software, fast iteration, and products that actually get used.
