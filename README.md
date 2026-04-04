@@ -11,6 +11,12 @@
   <a href="https://github.com/sponsors/ViVaLaDaniel">Sponsor</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/sponsors/ViVaLaDaniel">
+    <img alt="Sponsor Daniel Zamyatin on GitHub Sponsors" src="https://img.shields.io/badge/Sponsor%20My%20Work-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white">
+  </a>
+</p>
+
 ## What I build
 
 I work on software that solves a real workflow problem, not just a UI exercise.
