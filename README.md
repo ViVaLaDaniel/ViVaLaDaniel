@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://github.com/ViVaLaDaniel">GitHub</a> ·
   <a href="https://www.linkedin.com/in/zamyatindaniel/">LinkedIn</a> ·
-  <a href="https://github.com/ViVaLaDaniel/DanielZamyatin">Portfolio</a>
+  <a href="https://github.com/ViVaLaDaniel/DanielZamyatin">Portfolio</a> ·
+  <a href="https://github.com/sponsors/ViVaLaDaniel">Sponsor</a>
 </p>
 
 ## What I build
@@ -53,6 +54,12 @@ I work on software that solves a real workflow problem, not just a UI exercise.
 - Operations dashboards for real teams
 - Automation-first SaaS tools
 - Internal systems that remove manual work and speed up decisions
+
+## Support my work
+
+If you find my open source work useful, you can support it on GitHub Sponsors.
+
+- GitHub Sponsors: [Sponsor @ViVaLaDaniel](https://github.com/sponsors/ViVaLaDaniel)
 
 ## Open to
 
