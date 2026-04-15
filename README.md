@@ -1,20 +1,13 @@
-<h1 align="center">Daniel Zamyatin</h1>
+<h1 align=\"center\">Daniel Zamyatin</h1>
 
-<p align="center"><strong>Full-Stack & Web3 Engineer building AI products, blockchain integrations, and automation systems.</strong></p>
+<p align=\"center\"><strong>Full-Stack & Web3 Engineer building AI products, blockchain integrations, and automation systems.</strong></p>
 
-<p align="center">Next.js Â· TypeScript Â· Solana Â· AI Agents Â· n8n Â· Product-focused Engineering</p>
+<p align=\"center\">Next.js · TypeScript · Solana · AI Agents · n8n · Product-focused Engineering</p>
 
-<p align="center">
-  <a href="https://github.com/ViVaLaDaniel">GitHub</a> Â·
-  <a href="https://www.linkedin.com/in/zamyatindaniel/">LinkedIn</a> Â·
-  <a href="https://github.com/ViVaLaDaniel/DanielZamyatin">Portfolio</a> Â·
-  <a href="https://github.com/sponsors/ViVaLaDaniel">Sponsor</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/ViVaLaDaniel">
-    <img alt="Sponsor Daniel Zamyatin on GitHub Sponsors" src="https://img.shields.io/badge/Sponsor%20My%20Work-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white">
-  </a>
+<p align=\"center\">
+  <a href=\"https://github.com/ViVaLaDaniel\">GitHub</a> ·
+  <a href=\"https://www.linkedin.com/in/zamyatindaniel/\">LinkedIn</a> ·
+  <a href=\"https://github.com/ViVaLaDaniel/DanielZamyatin\">Portfolio</a>
 </p>
 
 ## What I build
@@ -44,12 +37,6 @@ I work on software that solves real-world workflow problems, from secure blockch
 - **Backend & API:** Node.js, Express, GraphQL, REST, Firebase, Supabase
 - **AI & Automation:** MCP (Model Context Protocol), n8n, Genkit, LLM integrations
 - **Delivery:** Docker, GitHub Actions, Linux, Vercel
-
-## Support my work
-
-If you find my work useful, you can support it via GitHub Sponsors or follow my progress in the Web3 ecosystem.
-
-- GitHub Sponsors: [Sponsor @ViVaLaDaniel](https://github.com/sponsors/ViVaLaDaniel)
 
 ## Open to
 
