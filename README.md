@@ -1,8 +1,8 @@
 <h1 align="center">Daniel Zamyatin</h1>
 
-<p align="center"><strong>Full-Stack Engineer building AI products, dashboards, and automation systems.</strong></p>
+<p align="center"><strong>Full-Stack & Web3 Engineer building AI products, blockchain integrations, and automation systems.</strong></p>
 
-<p align="center">Next.js · TypeScript · React · AI integrations · n8n · product-focused frontend</p>
+<p align="center">Next.js · TypeScript · Solana · AI Agents · n8n · Product-focused Engineering</p>
 
 <p align="center">
   <a href="https://github.com/ViVaLaDaniel">GitHub</a> ·
@@ -19,60 +19,44 @@
 
 ## What I build
 
-I work on software that solves a real workflow problem, not just a UI exercise.
+I work on software that solves real-world workflow problems, from secure blockchain audits to AI-powered SaaS.
 
-- AI-assisted tools that turn messy manual work into clear actions
-- Internal dashboards and operational panels
-- Automation-heavy products with APIs, webhooks, and agent-style flows
-- Fast, business-oriented frontends for SaaS and internal systems
-
-## Why teams hire me
-
-- I can turn a rough product idea into a usable frontend quickly
-- I think in workflows, users, bottlenecks, and business value
-- I work across UI, integrations, automation, and delivery concerns
-- I care about speed, clarity, and maintainable execution
+- **Web3 & Solana:** Secure MCP servers, blockchain-to-CRM bridges, and on-chain auditing tools.
+- **AI-Native Apps:** Agents and tools that turn messy manual work into automated, actionable flows.
+- **Enterprise Integrations:** Professional dashboards and operational panels for real-world teams.
+- **Fast MVPs:** High-quality, business-oriented frontends for SaaS and internal systems.
 
 ## Flagship work
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
-| [PermitPilot](https://github.com/ViVaLaDaniel/PermitPilot) | AI permit assistant for construction workflows: permit discovery, municipality requirements, document autofill, validation, and status tracking. | Next.js, TypeScript, Firebase, Genkit |
-| [AI-Imigration-Helper](https://github.com/ViVaLaDaniel/AI-Imigration-Helper) | AI document analysis experience for immigrants with uploads, translations, checklists, analytics, and security-oriented UX. | React, Vite, JavaScript, Framer Motion |
-| [Linkedin-Post-Generation](https://github.com/ViVaLaDaniel/Linkedin-Post-Generation) | AI content generator with multiple post styles, daily usage limits, copy-first UX, and a PRO mode concept. | Next.js, TypeScript, Gemini |
-| [telegramminiApp](https://github.com/ViVaLaDaniel/telegramminiApp) | Telegram Mini App prototype for restaurant staff operations: task feeds, stop-lists, prep flows, and role-based workspace configuration. | React, TypeScript, Vite, Telegram SDK |
-| [DanielZamyatin](https://github.com/ViVaLaDaniel/DanielZamyatin) | Personal portfolio system with bilingual content, config-driven structure, and production-ready frontend architecture. | Next.js 15, TypeScript, Tailwind CSS |
-
-## Product directions in progress
-
-- [axis-ai-dashboard](https://github.com/ViVaLaDaniel/axis-ai-dashboard) - early-stage foundation for an AI operations dashboard
+| [Twenty-Solana Bridge](https://github.com/ViVaLaDaniel/twenty-solana-bridge) | **$2,500 Bounty Project.** High-performance bridge connecting Solana on-chain activity to Twenty CRM. Features automated lead creation and dynamic scoring. | Next.js 15, Solana, GraphQL, Zod |
+| [Archestra-Solana MCP](https://github.com/ViVaLaDaniel/archestra-solana-mcp) | **$500 Bounty Project.** Secure Model Context Protocol (MCP) server for Solana audits. Scans for risky SPL Token delegations via Archestra Gateway. | TypeScript, MCP SDK, Solana web3.js |
+| [PermitPilot](https://github.com/ViVaLaDaniel/PermitPilot) | AI permit assistant for construction workflows: permit discovery, municipality requirements, and status tracking. | Next.js, TypeScript, Firebase, Genkit |
+| [AI-Imigration-Helper](https://github.com/ViVaLaDaniel/AI-Imigration-Helper) | AI document analysis experience for immigrants with translations, checklists, and security-oriented UX. | React, Vite, Framer Motion |
+| [Linkedin-Post-Generation](https://github.com/ViVaLaDaniel/Linkedin-Post-Generation) | AI content generator with multiple post styles, usage limits, and copy-first UX. | Next.js, TypeScript, Gemini |
+| [telegramminiApp](https://github.com/ViVaLaDaniel/telegramminiApp) | Telegram Mini App for restaurant staff: task feeds, stop-lists, and role-based configuration. | React, TypeScript, Telegram SDK |
 
 ## Core stack
 
-- Frontend: React, Next.js, TypeScript, Tailwind CSS
-- Backend and integrations: Node.js, Express, REST APIs, webhooks, Firebase
-- AI and automation: n8n, Genkit, LLM integrations, workflow design
-- Delivery: Docker, Nginx, GitHub Actions, Linux, DigitalOcean
-
-## What I want to build more of
-
-- AI workflow products with clear ROI
-- Operations dashboards for real teams
-- Automation-first SaaS tools
-- Internal systems that remove manual work and speed up decisions
+- **Frontend:** React, Next.js 15, TypeScript, Tailwind CSS
+- **Blockchain:** Solana, SPL Tokens, Helius Webhooks, Archestra Gateway
+- **Backend & API:** Node.js, Express, GraphQL, REST, Firebase, Supabase
+- **AI & Automation:** MCP (Model Context Protocol), n8n, Genkit, LLM integrations
+- **Delivery:** Docker, GitHub Actions, Linux, Vercel
 
 ## Support my work
 
-If you find my open source work useful, you can support it on GitHub Sponsors.
+If you find my work useful, you can support it via GitHub Sponsors or follow my progress in the Web3 ecosystem.
 
 - GitHub Sponsors: [Sponsor @ViVaLaDaniel](https://github.com/sponsors/ViVaLaDaniel)
 
 ## Open to
 
-- Full-time product engineering roles
-- Contract work
-- MVP builds for startups
-- AI tooling and automation systems
+- **Web3 Engineering Roles** (Solana focus)
+- **AI/LLM Integration Projects**
+- **MVP builds for startups**
+- **Contract work & Architecture Audits**
 
 ## Contact
 
