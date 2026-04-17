@@ -1,13 +1,19 @@
-<h1 align=\"center\">Daniel Zamyatin</h1>
+<p align="center">
+  <a href="https://github.com/sponsors/ViVaLaDaniel">
+    <img alt="Sponsor on GitHub" src="https://img.shields.io/badge/Sponsor%20on%20GitHub-1f6feb?style=for-the-badge&logo=githubsponsors&logoColor=white">
+  </a>
+</p>
 
-<p align=\"center\"><strong>Full-Stack & Web3 Engineer building AI products, blockchain integrations, and automation systems.</strong></p>
+<h1 align="center">Daniel Zamyatin</h1>
 
-<p align=\"center\">Next.js · TypeScript · Solana · AI Agents · n8n · Product-focused Engineering</p>
+<p align="center"><strong>Full-Stack & Web3 Engineer building AI products, blockchain integrations, and automation systems.</strong></p>
 
-<p align=\"center\">
-  <a href=\"https://github.com/ViVaLaDaniel\">GitHub</a> ·
-  <a href=\"https://www.linkedin.com/in/zamyatindaniel/\">LinkedIn</a> ·
-  <a href=\"https://github.com/ViVaLaDaniel/DanielZamyatin\">Portfolio</a>
+<p align="center">Next.js Â· TypeScript Â· Solana Â· AI Agents Â· n8n Â· Product-focused Engineering</p>
+
+<p align="center">
+  <a href="https://github.com/ViVaLaDaniel">GitHub</a> Â·
+  <a href="https://www.linkedin.com/in/zamyatindaniel/">LinkedIn</a> Â·
+  <a href="https://github.com/ViVaLaDaniel/DanielZamyatin">Portfolio</a>
 </p>
 
 ## What I build
